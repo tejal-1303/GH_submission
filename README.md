@@ -59,5 +59,16 @@ With this innovative model at their fingertips, emergency teams can navigate thr
       note = { visited on 2024-01-23 },
     }
   ```
+
+  - **Massachusetts Roads Dataset**
+  - [Dataset Link](https://www.cs.toronto.edu/~vmnih/data/)
+    ```
+    @phdthesis{MnihThesis,
+     author = {Volodymyr Mnih},
+     title = {Machine Learning for Aerial Image Labeling},
+     school = {University of Toronto},
+     year = {2013}
+    }
+    ```
 - **Training:** Train the models on a powerful machine or consider using cloud-based GPU instances for faster training.
 - **Deployment:** Consider deploying the trained models to cloud platforms or edge devices for real-time emergency response applications.
