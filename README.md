@@ -58,9 +58,8 @@ With this innovative model at their fingertips, emergency teams can navigate thr
       month = { dec },
       note = { visited on 2024-01-23 },
     }
-  ```
 
-  - **Massachusetts Roads Dataset**
+- **Massachusetts Roads Dataset**
   - [Dataset Link](https://www.cs.toronto.edu/~vmnih/data/)
     ```
     @phdthesis{MnihThesis,
@@ -70,5 +69,6 @@ With this innovative model at their fingertips, emergency teams can navigate thr
      year = {2013}
     }
     ```
+
 - **Training:** Train the models on a powerful machine or consider using cloud-based GPU instances for faster training.
-- **Deployment:** Consider deploying the trained models to cloud platforms or edge devices for real-time emergency response applications.
+- **Deployment:**  The models after training for the road segmentation is saved in road_final.pt and for landing detection is saved in best.pt. Consider deploying the trained models to cloud platforms or edge devices for real-time emergency response applications.
